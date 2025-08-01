@@ -1,0 +1,23 @@
+# Core API
+fastapi
+uvicorn[standard]
+
+# Data handling
+pandas
+openpyxl
+
+# ChromaDB (Vector DB)
+chromadb
+
+# Embedding model
+sentence-transformers
+
+# For similarity computation
+torch
+scikit-learn
+
+# Optional for tqdm-based progress bars
+tqdm
+
+# Input validation
+pydantic
